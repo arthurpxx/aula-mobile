@@ -80,6 +80,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    marginBottom: 300 // a gambs que fiz pra ficar responsivo no celular
   },
 
   btn: {
